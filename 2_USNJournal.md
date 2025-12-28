@@ -1,4 +1,9 @@
-# MFTECMD  
+# The USN Journal  
+The USN Journal can be examined using MFTECmd.exe.  Information on the tool below.  
+
+## MFTECMD  
+### Sample Command (USNJ): mftecmd.exe -f E:\the\file\location\$Extend\$J -m E:\C\$MFT --csv g:\the\export\location\USNJ  
+
 ## Download Link: [https://github.com/EricZimmerman/MFTECmd](https://ericzimmerman.github.io/#!index.md)  
 ## Info: https://binaryforay.blogspot.com/2018/06/introducing-mftecmd.html  
 ### Command Line Interface:  
