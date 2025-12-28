@@ -1,5 +1,16 @@
 # The USN Journal  
 The USN Journal can be examined using MFTECmd.exe.  Information on the tool below.  
+The USN Journal is useful for looking at update reasons for files such as:  
+- file_create
+- file_delete
+- basic_info_change
+- close
+- data_extend
+- data_overwrite
+- rename_new_name
+- rename_old_name
+
+
 
 ## MFTECMD  
 ### Sample Command (USNJ): mftecmd.exe -f E:\the\file\location\$Extend\$J -m E:\C\$MFT --csv g:\the\export\location\USNJ  
