@@ -1,5 +1,5 @@
 # Registry: Software Profiling  
-## Registry Locations:  
+## Registry Location:  
 - SOFTWARE\Microsoft\Windows NT\CurrentVersion
 
 ## Values of Note:  
@@ -10,3 +10,9 @@
 - CurrentBuild
 - InstallTime (This value could be initial OS install time, but it could be the last major OS update).
   
+## Registry Location:  
+- SOFTWARE\Microsoft\Windows NT\CurrentVersion\NetworkList  
+
+## Values of Note:  
+Known Networks plugin tab (Registry Explorer).  
+The key provides a more historical view of network connections than what can be found in the SYSTEM hve.
