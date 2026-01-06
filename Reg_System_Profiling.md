@@ -16,3 +16,9 @@ SYSTEM\<CurrentControlSet>\Control\Windows (Value stored in Windows FILETIME 64-
 SYSTEM\<CurrentControlSet>\Services\Tcpip\Parameters\Interfaces  
 #### DhcpDomain  
 
+### Identify Previously Installed Windows versions  
+SYSTEM\Setup\Source OS\  
+Keys:  
+- ReleaseId
+- CurrentBuild
+- InstallTime
