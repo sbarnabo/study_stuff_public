@@ -8,3 +8,5 @@ UserActivity.reb is an example.  Use Notepad++ or any other editor to view.
 ### Example Commandline:  
 - cd /d C:\<program_location>\ZimmermanTools\net9\RECmd
 - RECmd.exe -f source_location\NTUSER.DAT_clean --bn .\BatchExamples\UserActivity.reb --csv output_location
+- RECmd.exe -d E:\C\ --bn .\BatchExamples\Kroll_Batch.reb --csv output_location  
+
