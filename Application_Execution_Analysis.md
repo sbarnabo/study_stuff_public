@@ -13,8 +13,12 @@
 
 ### Registry Locations (BAM):  
 - SYSTEM\ControlSet001\Services\bam\State\UserSettings\SID_of_interest  
+#### Notes:  
 You can sort by execution time.
 
 ### Registry Locations (UserAssist):  
 - NTUSER.DAT\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist  
+
+#### Notes:  
+Shows application focus times.  
 
