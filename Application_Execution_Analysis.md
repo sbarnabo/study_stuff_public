@@ -35,4 +35,7 @@ pecmd.exe -f theprefetchfile_to_interrogate
 pecmd.exe -d E:\C\Windows\Prefetch -q --csv the_output_location  
 Shows run count, the other run times, and files touched  
 
+### Task Bar Feature Usage  
+### Registry Location:  NTUSER.dat\Software\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage  
+
 
