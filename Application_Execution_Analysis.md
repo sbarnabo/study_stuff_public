@@ -17,7 +17,10 @@
 You can sort by execution time.
 
 ### Registry Locations (UserAssist):  
-- NTUSER.DAT\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist  
+- NTUSER.DAT\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist
+- Two most common GUIDs-
+-   CEBFF....- Executable file execution
+-   F4E57....- Shortcut File Execution
 
 #### Notes:  
 Shows application focus times and last executed date.  
