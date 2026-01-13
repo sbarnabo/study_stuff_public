@@ -20,5 +20,6 @@ You can sort by execution time.
 - NTUSER.DAT\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist  
 
 #### Notes:  
-Shows application focus times.  
+Shows application focus times and last executed date.  
+
 
