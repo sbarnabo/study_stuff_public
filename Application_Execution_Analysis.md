@@ -27,4 +27,12 @@ You can sort by execution time.
 #### Notes:  
 Shows application number of executions, focus times, and last executed date.  
 
+### Prefetch Analysis  
+#### WinPrefetch View  
+Option \ Advanced Options \ Browse  
+
+pecmd.exe -f theprefetchfile_to_interrogate  
+pecmd.exe -d E:\C\Windows\Prefetch -q --csv the_output_location  
+Shows run count, the other run times, and files touched  
+
 
