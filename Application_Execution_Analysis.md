@@ -21,6 +21,8 @@ You can sort by execution time.
 - Two most common GUIDs-
 -   CEBFF....- Executable file execution
 -   F4E57....- Shortcut File Execution
+- NTUSER.DAT\Software\Microsoft\Windows\CurrentVersion\Applets\Regedit\LastKey shows last key edited.
+  
 
 #### Notes:  
 Shows application number of executions, focus times, and last executed date.  
