@@ -23,6 +23,6 @@ You can sort by execution time.
 -   F4E57....- Shortcut File Execution
 
 #### Notes:  
-Shows application focus times and last executed date.  
+Shows application number of executions, focus times, and last executed date.  
 
 
