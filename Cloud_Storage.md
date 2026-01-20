@@ -21,3 +21,8 @@ OneDrive Explorer GUI
 -  E:\C\username\NTUSER.DAT
 -  E:\C\$Recycle.Bin\S-1-5-21-XXX-XXX-1002
 -  
+
+## Google  
+
+### Location of Interest:  
+\Users\<account of interest>\AppData\Local\Google  
