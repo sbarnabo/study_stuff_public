@@ -25,4 +25,8 @@ OneDrive Explorer GUI
 ## Google  
 
 ### Location of Interest:  
-\Users\<account of interest>\AppData\Local\Google  
+\Users\<account of interest>\AppData\Local\Google\DriveFS\<account>\metadata_sqlite_db  
+You have to say "All Files", there is no extension to the file.  
+
+#### Tools of interest:  
+DB Browser for SQLite  
