@@ -40,3 +40,7 @@ The content-entry of the item_property is protobut format.  Use cyberchef from H
 File -> Add Evidence -> Image file (.e01)  
 
 - gMetaDataParse
+### Location of Interest:  
+\Users\<account of interest>\AppData\Local\Google\DriveFS\<account>\metadata_sqlite_db  
+Open cache folder: content_cache
+Open database: metadata_sqlite_db  
