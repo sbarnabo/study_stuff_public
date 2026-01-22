@@ -4,7 +4,7 @@
 
 ### File location  
 
-Users\<account>\Appdata\Roaming\Microsoft\Windows\Recent  
+Users\ <account>\Appdata\Roaming\Microsoft\Windows\Recent  
 
 #### Tools:  lecmd.exe  
 
